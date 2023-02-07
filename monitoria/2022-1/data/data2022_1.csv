@@ -1,0 +1,150 @@
+Nro;Data;Horário;Código;Nome Completo;Disciplina;Assunto;Forma de Atendimento
+1;16/03/2022;13:10;2269376;Gabriel Costa Santos;ED 1;Arquivo;Presencial
+2;17/03/2022;11:10;2325926;Andersson Sampaio Guadanhini Filho;FDP 1;Variáveis (Tipos, Captura e Exibição);Presencial
+3;21/03/2022;19:10;2171210;Alexandre Olah de Almeida Lima;ED 1;Argc e Argv //Conversão para Binário;Remoto
+4;21/03/2022;20:26;2368013;Mabylly Kauany Neres da Silva;FDP 2;Enum e Union;Remoto
+5;22/03/2022;18:48;2368048;Plinio Zanqueta;ED 1;Structs // For Aninhando // Alocação Dinamica // Passagem por referência;Remoto
+6;25/03/2022;22:21;2171210;Alexandre Olah de Almeida Lima;ED 1; Pilha e Leitura de arquivo;Remoto
+7;26/03/2022;21:08;2369184;Wesley Santos Figueiredo Zimmer;FDP 2;Struct;Remoto
+8;27/03/2022;15:27;2269376;Gabriel Costa Santos;ED 1;Leitura de Arquivo em C // Funcionamento da Pilha Dinamica;Remoto
+9;28/03/2022;19:10;2325926;Andersson Sampaio Guadanhini Filho;FDP 1;Variáveis (Tipos, Captura e Exibição) // Expressões Aritméticas;Remoto
+10;28/03/2022;20:00;2368048;Plinio Zanqueta;ED 1;Leitura de Arquivo em C;Remoto
+11;28/03/2022;20:40;2325926;Andersson Sampaio Guadanhini Filho;FDP 1;Tratamento de erro;Remoto
+12;29/03/2022;18:42;2368048;Plinio Zanqueta;ED 1;Função Rewind;Remoto
+13;29/03/2022;19:10;2325926;Andersson Sampaio Guadanhini Filho;FDP 1;Expressões Aritméticas // For;Remoto
+14;29/03/2022;19:42;2368048;Plinio Zanqueta;ED 1;Tratamento de erro na leitura de arquivo;Remoto
+15;29/03/2022;20:00;2372584;Júlia Cardozo;ED - DV;Arquivo;Remoto
+16;04/04/2022;18:26;2368048;Plinio Zanqueta;ED 1;Arquivo;Remoto
+17;04/04/2022;19:43;2325926;Andersson Sampaio Guadanhini Filho;FDP 1;Biblioteca Math // Calculo de comissão;Remoto
+18;05/04/2022;18:43;2368048;Plinio Zanqueta;ED 1;Erro com compilador e arquivo;Remoto
+19;05/04/2022;20:10;2369184;Wesley Santos Figueiredo Zimmer;FDP 2;Funções;Remoto
+20;11/04/2022;18:44;2368048;Plinio Zanqueta;ED 1;Erro com lógica, interpretação e arquivo || (Explicação da atividade prática com o uso de uma única pilha);Remoto
+21;11/04/2022;19:43;2325926;Andersson Sampaio Guadanhini Filho;FDP 1;While;Remoto
+22;12/04/2022;18:41;2321424;João Pedro Cavani Mireles;ED 1;Arquivo;Remoto
+23;12/04/2022;19:12;2325926;Andersson Sampaio Guadanhini Filho;FDP 1;Expressões Matemáticas e comandos da linguagem C;Remoto
+24;13/04/2022;19:02;2367831;Andrei Fernandes Zani;ED 1;Escrita em Arquivo || Lógica para o empilhar o Temp ;Remoto
+25;18/04/2022;20:24;2372584;Júlia Cardozo;ED - DV;Erro ao imprimir arquivo pela função || Argc e Argv;Remoto
+26;19/04/2022;18:52;2372584;Júlia Cardozo;ED - DV;Erro ao imprimir arquivo pela função || Explicando Lógica sobre a última operação || Função Destroi Pilha;Remoto
+27;19/04/2022;19:14;2453274;Murilo Garrido Volpato;FDP 1;Switch;Remoto
+28;19/04/2022;19:29;2453304;Samuel Felipe Cordova Victorio;FDP 1;Switch;Remoto
+29;20/04/2022;9:10-11:10;2478382;Erika Fernanda Santos De Souza;FDP 1;Switch;Presencial
+30;20/04/2022;9:10-11:10;2453258;Matheus Bonfim Da Rocha;FDP 1;Dúvidas Recorrentes ;Presencial
+31;20/04/2022;9:10-11:10;2453274;Murilo Garrido Volpato;FDP 1;Switch;Presencial
+32;20/04/2022;9:10-11:10;2461684;Vinicius Lopes Silvino;FDP 1;Switch;Presencial
+33;20/04/2022;9:10-11:10;2453312;Tiago Fernandes Soucek;FDP 1;Switch;Presencial
+34;20/04/2022;9:10-11:10;2461633;Guilherme Alves Silva;FDP 1;Switch;Presencial
+35;20/04/2022;9:10-11:10;2478412;Guilherme De Carvalho Pontremolez;FDP 1;Switch;Presencial
+36;20/04/2022;9:10-11:10;2478420;Heros Henrique Delecrode;FDP 1;Switch;Presencial
+37;25/04/2022;18:44;2368013;Mabylly Kauany Neres da Silva;FDP 2;Ponteiros;Remoto
+38;26/04/2022;18:46;2368048;Plinio Zanqueta;ED 1;Lista de Struct;Remoto
+39;26/04/2022;19:03;2453274;Murilo Garrido Volpato;FDP 1;Aulixio no Debug no código - Auxilio com lógica de programação;Remoto
+40;27/04/2022;9:10-11:10;2478382;Erika Fernanda Santos De Souza;FDP 1;While;Presencial
+41;27/04/2022;9:10-11:10;2453258;Matheus Bonfim Da Rocha;FDP 1;Dúvidas Recorrentes ;Presencial
+42;27/04/2022;9:10-11:10;2453274;Murilo Garrido Volpato;FDP 1;While;Presencial
+43;27/04/2022;9:10-11:10;2461684;Vinicius Lopes Silvino;FDP 1;While;Presencial
+44;27/04/2022;9:10-11:10;2453312;Tiago Fernandes Soucek;FDP 1;While;Presencial
+45;27/04/2022;9:10-11:10;2461633;Guilherme Alves Silva;FDP 1;While;Presencial
+46;27/04/2022;9:10-11:10;2478412;Guilherme De Carvalho Pontremolez;FDP 1;While;Presencial
+47;27/04/2022;9:10-11:10;2478420;Heros Henrique Delecrode;FDP 1;While;Presencial
+48;02/05/2022;18:41;;Douglas F1-B;FDP 1;Exercicios de Revisão para P1;Remoto
+49;02/05/2022;19:12;2453274;Murilo Garrido Volpato;FDP 1;Exercicios de Revisão para P1;Remoto
+50;03/05/2022;19:17;;Felipe;FDP 1;Exercicios de Revisão para P1;Remoto
+51;03/05/2022;19:42;2367831;Andrei Fernandes Zani;ED 1;Implementação do Nó Sentinela;Remoto
+52;03/05/2022;20:53;2453274;Murilo Garrido Volpato;FDP 1;Exercicios de Revisão para P1;Remoto
+53;27/04/2022;9:10-11:10;2478382;Erika Fernanda Santos De Souza;FDP 1;Exercicios de Revisão para P1;Presencial
+54;27/04/2022;9:10-11:10;2453258;Matheus Bonfim Da Rocha;FDP 1;Dúvidas Recorrentes ;Presencial
+55;27/04/2022;9:10-11:10;2453274;Murilo Garrido Volpato;FDP 1;Exercicios de Revisão para P1;Presencial
+56;27/04/2022;9:10-11:10;2461684;Vinicius Lopes Silvino;FDP 1;Exercicios de Revisão para P1;Presencial
+57;27/04/2022;9:10-11:10;2453312;Tiago Fernandes Soucek;FDP 1;Exercicios de Revisão para P1;Presencial
+58;27/04/2022;9:10-11:10;2461633;Guilherme Alves Silva;FDP 1;Exercicios de Revisão para P1;Presencial
+59;27/04/2022;9:10-11:10;2478412;Guilherme De Carvalho Pontremolez;FDP 1;Exercicios de Revisão para P1;Presencial
+60;27/04/2022;9:10-11:10;2478420;Heros Henrique Delecrode;FDP 1;Exercicios de Revisão para P1;Presencial
+61;09/05/2022;18:39;2367831;Andrei Fernandes Zani;ED 1;Implementação do Nó Sentinela;Remoto
+62;09/05/2022;19:29;2373599;Ana Beatriz Faria Costa;ED - DV;Leitura de Arquivo - Implementação do Nó Sentinela;Remoto
+63;09/05/2022;20:09;2372584;Júlia Cardozo;ED - DV;Impressão e Leitura no Arquivo;Remoto
+64;10/05/2022;18:40;2373599;Ana Beatriz Faria Costa;ED - DV;Leitura de Arquivo - Implementação do Nó Sentinela;Remoto
+65;10/05/2022;19:24;2367920;Gustavo Naoki Jodai Kurozawa;ED 1;Leitura de Arquivo - Implementação do Nó Sentinela;Remoto
+66;10/05/2022;20:28;2321424;João Pedro Cavani Mireles;ED 1;Leitura de Arquivo - Implementação do Nó Sentinela;Remoto
+67;11/05/2022;9:10-11:10;2478382;Erika Fernanda Santos De Souza;FDP 1;Vetores;Presencial
+68;11/05/2022;9:10-11:10;2453258;Matheus Bonfim Da Rocha;FDP 1;Dúvidas Recorrentes ;Presencial
+69;11/05/2022;9:10-11:10;2453274;Murilo Garrido Volpato;FDP 1;Vetores;Presencial
+70;11/05/2022;9:10-11:10;2461684;Vinicius Lopes Silvino;FDP 1;Vetores;Presencial
+71;11/05/2022;9:10-11:10;2453312;Tiago Fernandes Soucek;FDP 1;Vetores;Presencial
+72;11/05/2022;9:10-11:10;2461633;Guilherme Alves Silva;FDP 1;Vetores;Presencial
+73;11/05/2022;9:10-11:10;2478412;Guilherme De Carvalho Pontremolez;FDP 1;Vetores;Presencial
+74;11/05/2022;9:10-11:10;2478420;Heros Henrique Delecrode;FDP 1;Exercicios de Revisão para P1;Presencial
+75;17/05/2022;19:42;2453274;Murilo Garrido Volpato;FDP 1;Vetor;Remoto
+76;18/05/2022;9:10-11:10;2478382;Erika Fernanda Santos De Souza;FDP 1;Matriz;Presencial
+77;18/05/2022;9:10-11:10;2453258;Matheus Bonfim Da Rocha;FDP 1;Matriz;Presencial
+78;18/05/2022;9:10-11:10;2453274;Murilo Garrido Volpato;FDP 1;Matriz;Presencial
+79;18/05/2022;9:10-11:10;2461684;Vinicius Lopes Silvino;FDP 1;Matriz;Presencial
+80;18/05/2022;9:10-11:10;2453312;Tiago Fernandes Soucek;FDP 1;Matriz;Presencial
+81;18/05/2022;9:10-11:10;2461633;Guilherme Alves Silva;FDP 1;Matriz;Presencial
+82;18/05/2022;9:10-11:10;2478412;Guilherme De Carvalho Pontremolez;FDP 1;Matriz;Presencial
+83;18/05/2022;9:10-11:10;2478420;Heros Henrique Delecrode;FDP 1;Matriz;Presencial
+84;23/05/2022;06:40;2171210;Alexandre Olah de Almeida Lima;ED 1;Ponteiros;Remoto
+85;23/05/2022;07:21;2408740;Deivid da Silva Galvão;FDP 2;Arquivo/String;Remoto
+86;25/05/2022;9:10-11:10;2478382;Erika Fernanda Santos De Souza;FDP 1;Funções;Presencial
+87;25/05/2022;9:10-11:10;2453258;Matheus Bonfim Da Rocha;FDP 1;Dúvidas Recorrentes ;Presencial
+88;25/05/2022;9:10-11:10;2453274;Murilo Garrido Volpato;FDP 1;Matriz;Presencial
+89;25/05/2022;9:10-11:10;2461684;Vinicius Lopes Silvino;FDP 1;Matriz;Presencial
+90;25/05/2022;9:10-11:10;2453312;Tiago Fernandes Soucek;FDP 1;Matriz;Presencial
+91;25/05/2022;9:10-11:10;2461633;Guilherme Alves Silva;FDP 1;Matriz;Presencial
+92;25/05/2022;9:10-11:10;2478412;Guilherme De Carvalho Pontremolez;FDP 1;Matriz;Presencial
+93;25/05/2022;9:10-11:10;2478420;Heros Henrique Delecrode;FDP 1;Matriz;Presencial
+94;30/05/2022;18:40;2373599;Ana Beatriz Faria Costa;ED - DV;Árvore Binária;Remoto
+95;30/05/2022;19:10;2453274;Murilo Garrido Volpato;FDP 1;Matriz;Remoto
+96;30/05/2022;19:40;2369184;Wesley Santos Figueiredo Zimmer;FDP 2;Alocação e Arquivo Binário;Remoto
+97;30/05/2022;20:10;2453304;Samuel Felipe Cordova Victorio;FDP 1;Matriz;Remoto
+98;30/05/2022;20:33;2453282;Nicolas De Paulo Romano;FDP 1;Matriz;Remoto
+99;31/05/2022;18:39;2453312;Tiago Fernandes Soucek;FDP 1;Matriz;Remoto
+100;31/05/2022;18:47;2207230;Maria Aparecida Da Silva Oliveir;FDP 1-DP;Ajuda para debugar;Remoto
+101;31/05/2022;20:10;2478420;Heros Henrique Delecrode;FDP 1;Matriz e String;Remoto
+102;31/05/2022;20:50;2321424;João Pedro Cavani Mireles;ED 1;Árvore Binária;Remoto
+103;01/06/2022;9:10-11:10;2478382;Erika Fernanda Santos De Souza;FDP 1;Dúvidas Recorrentes ;Presencial
+104;01/06/2022;9:10-11:10;2453258;Matheus Bonfim Da Rocha;FDP 1;Dúvidas Recorrentes ;Presencial
+105;01/06/2022;9:10-11:10;2453274;Murilo Garrido Volpato;FDP 1;Dúvidas Recorrentes ;Presencial
+106;01/06/2022;9:10-11:10;2461684;Vinicius Lopes Silvino;FDP 1;Dúvidas Recorrentes ;Presencial
+107;01/06/2022;9:10-11:10;2453312;Tiago Fernandes Soucek;FDP 1;Dúvidas Recorrentes ;Presencial
+108;01/06/2022;9:10-11:10;2461633;Guilherme Alves Silva;FDP 1;Dúvidas Recorrentes ;Presencial
+109;01/06/2022;9:10-11:10;2478412;Guilherme De Carvalho Pontremolez;FDP 1;Dúvidas Recorrentes ;Presencial
+110;01/06/2022;9:10-11:10;2478420;Heros Henrique Delecrode;FDP 1;Dúvidas Recorrentes ;Presencial
+111;06/06/2022;18:41;2369052;Arthur Albert Schmaiske Quoos;ED 1;Árvore Binária;Remoto
+112;06/06/2022;18:55;2207230;Maria Aparecida Da Silva Oliveir;FDP 1-DP;Ajuda para debugar e Matriz;Remoto
+113;06/06/2022;19:05;2408880;Vitor Hugo Leite Arruda De Olive;FDP 1-DP;Funções;Remoto
+114;06/06/2022;20:22;2453274;Murilo Garrido Volpato;FDP 1;Funções;Remoto
+115;07/06/2022;18:46;2453274;Murilo Garrido Volpato;FDP 1;Funções;Remoto
+116;07/06/2022;19:10;2271990;Gustavo Geovane Tamiao De Souza;ED 1;Pilha;Remoto
+117;07/06/2022;19:41;2408880;Vitor Hugo Leite Arruda De Olive;FDP 1-DP;Colorir Terminal, Auxilio em lógica e Matriz;Remoto
+118;08/06/2022;9:10-11:10;2461633;Guilherme Alves Silva;FDP 1;Funções;Presencial
+119;08/06/2022;9:10-11:10;2453274;Murilo Garrido Volpato;FDP 1;Funções;Presencial
+120;08/06/2022;9:10-11:10;2478463;Lucas Cordeiro Dutra;FDP 1;Funções;Presencial
+121;08/06/2022;9:10-11:10;2453258;Matheus Bonfim Da Rocha;FDP 1;Funções;Presencial
+122;08/06/2022;9:10-11:10;2478480;Matheus De Moraes Franciscon;FDP 1;Funções;Presencial
+123;08/06/2022;9:10-11:10;2453240;Joao Vitor Silva Pereira;FDP 1;Funções;Presencial
+124;08/06/2022;9:10-11:10;2487837;Gabriella Ribeiro De Melo E Costa;FDP 1;Funções;Presencial
+125;08/06/2022;9:10-11:10;2453231;Joao Pedro De Oliveira Mendes Sereno;FDP 1;Funções;Presencial
+126;08/06/2022;9:10-11:10;2004399;Bruno Correa Borges Silva;FDP 1;Funções;Presencial
+127;08/06/2022;9:10-11:10;2368013;Mabylly Kauany Neres da Silva;FDP 2;Alocação e Arquivo Binário;Presencial
+128;08/06/2022;9:10-11:10;2408880;Vitor Hugo Leite Arruda De Olive;FDP 1-DP;Colorir Terminal, Auxilio em lógica;Presencial
+129;14/06/2022;19:36;2368013;Mabylly Kauany Neres da Silva;FDP 2;Alocação e Arquivo Binário;Remoto
+130;14/06/2022;20:03;2368048;Plinio Zanqueta;ED 1;Pilha e Árvore Binária;Remoto
+131;15/06/2022;9:10-11:10;2453231;Joao Pedro De Oliveira Mendes Sereno;FDP 1;Funções;Presencial
+132;15/06/2022;9:10-11:10;2368013;Mabylly Kauany Neres da Silva;FDP 2;Alocação e Arquivo Binário;Presencial
+133;15/06/2022;18:40;2373599;Ana Beatriz Faria Costa;ED - DV;Algoritmos de Ordenação;Remoto
+134;15/06/2022;19:05;2408880;Vitor Hugo Leite Arruda De Olive;FDP 1-DP;Auxilio em lógica;Remoto
+135;15/06/2022;19:46;2368013;Mabylly Kauany Neres da Silva;FDP 2;Alocação e Arquivo Binário;Remoto
+136;20/06/2022;18:40;2453274;Murilo Garrido Volpato;FDP 1;Passagem de Parâmetros;Remoto
+137;20/06/2022;18:53;2368013;Mabylly Kauany Neres da Silva;FDP 2;Alocação e Arquivo Binário;Remoto
+138;20/06/2022;18:58;2453312;Tiago Fernandes Soucek;FDP 1;Switch e Ctype;Remoto
+139;21/06/2022;18:51;2453274;Murilo Garrido Volpato;FDP 1;Passagem de Parâmetros;Remoto
+140;21/06/2022;19:04;2453312;Tiago Fernandes Soucek;FDP 1;Funções;Remoto
+141;21/06/2022;19:37;2269376;Gabriel Costa Santos;ED 1;AVL;Remoto
+142;21/06/2022;20:14;2368013;Mabylly Kauany Neres da Silva;FDP 2;Alocação e Arquivo Binário;Remoto
+143;22/06/2022;09:30;2461633;Guilherme Alves Silva;FDP 1;SetBuffer;Remoto
+144;22/06/2022;10:07;2453312;Tiago Fernandes Soucek;FDP 1;SetBuffer e Funções;Remoto
+145;27/06/2022;20:23;2453274;Murilo Garrido Volpato;FDP 1;Revisão para P2;Remoto
+146;28/06/2022;18:50;2478480;Matheus De Moraes Franciscon;FDP 1;For aninhado // Matriz // Revisão para P2;Remoto
+147;28/06/2022;19:01;2453274;Murilo Garrido Volpato;FDP 1; Revisão para P2;Remoto
+148;28/06/2022;20:46;2453312;Tiago Fernandes Soucek;FDP 1;Debug;Remoto
+149;30/06/2022;9:10-11:10;2478420;Heros Henrique Delecrode;FDP 1;Busca em vetor/matriz;Remoto
