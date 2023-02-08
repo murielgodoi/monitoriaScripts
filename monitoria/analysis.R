@@ -19,7 +19,7 @@ library(ggplot2)
 # Loading data
 # ---------------------
 
-data = read.csv(file = "./data/data2022_2.csv", sep = ";")
+data = read.csv(file = "./data/data2022_22.csv", sep = ";")
 colnames(data)[8] = "Formato"
 
 # ---------------------
