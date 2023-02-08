@@ -80,15 +80,29 @@ wordcloud(words = df$word, freq = df$freq, min.freq = 2,
 
 # 6 . Timeline de atedimentos (github), heatmap
 
-time.data = as.data.frame(time.data)
+time.data = as.data.frame(data)[,-1]
 colnames(time.data)[1] = "Data"
 pieces = strsplit(x = as.character(time.data$Data), split = "/")
 dia   = unlist(lapply(pieces, function(temp){ return(temp[1])}))
 mes   = unlist(lapply(pieces, function(temp){ return(temp[2])}))
 
 time.df = cbind(time.data, dia, mes)
+time.df$Freq = 0
 
-g5 = ggplot(data = time.df, mapping = aes(x = dias, y = mes, fill = Freq))
+freq.table = table(time.df$Data)
+aux = lapply(1:length(freq.table), function(i) {
+  date = names(freq.table)[i]
+  values = unlist(strsplit(date, split = "/"))
+  ret = c(values[1:2], freq.table[i])
+  return(ret)
+})
+
+aux.df = as.data.frame(do.call("rbind", aux))
+colnames(aux.df) = c("dia", "mes", "Freq")
+aux.df$Freq = as.numeric(aux.df$Freq)
+
+
+g5 = ggplot(data = aux.df, mapping = aes(x = dia, y = mes, fill = Freq))
 g5 = g5 + geom_tile(colour = "black")
 g5 = g5 + theme_bw() + labs(x = "Dia", y = "Mês")
 g5 = g5 + scale_fill_gradient2(low = "white", high = "red")
